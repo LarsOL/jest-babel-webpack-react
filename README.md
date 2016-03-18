@@ -14,7 +14,7 @@ Files not meeting any of this criteria will be transformed as per .babelrc file.
 ## Installation
 
 ```sh
-$ npm install jest-babel-webpack-react --save-dev jest-webpack
+$ npm install jest-babel-webpack-react --save-dev
 ```
 
 ## Usage
