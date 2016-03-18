@@ -1,2 +1,2 @@
 # jest-babel-webpack-react
-A Jest plugin for optimaized integration with Webpack, Babel and React
+A Jest plugin for optimized integration with Webpack, Babel and React
