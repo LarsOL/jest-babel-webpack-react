@@ -1,7 +1,7 @@
 {
   "name": "jest-babel-webpack-react",
   "version": "0.1.2",
-  "description": "A Jest plugin for optimaized integration with Webpack, Babel and React",
+  "description": "A Jest plugin for optimized integration with Webpack, Babel and React",
   "license": "MIT",
   "main": "index.js",
   "author": "Lars Lawoko <lars.lawoko@gmail.com>",
