@@ -4,7 +4,14 @@
   "description": "A Jest plugin for optimaized integration with Webpack, Babel and React",
   "license": "MIT",
   "main": "index.js",
-  "author": "Lars Lawoko",
+  "author": "Lars Lawoko <lars.lawoko@gmail.com>",
   "peerDependencies": {
 	"babel-core":"6.x"
+   },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/LarsOL/jest-babel-webpack-react.git"
+  },"bugs": {
+    "url": "https://github.com/LarsOL/jest-babel-webpack-react/issues"
+  },
 }
